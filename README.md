@@ -1,5 +1,5 @@
 ## Project Background
-RawtoReady is an interactive web app that simplifies data cleaning tasks for students, researchers, and analysts. Users can upload CSV datasets, apply multiple cleaning options (missing value handling, text normalization, duplicate removal, anomaly detection, etc.), and download a cleaned dataset.
+RawtoReady is an interactive web application designed to simplify data cleaning tasks for students, researchers, and analysts. The app allows users to upload CSV datasets, apply multiple cleaning operations such as missing value handling, text normalization, duplicate removal, and anomaly detection, and finally download a cleaned dataset ready for analysis.
 
 ## Features
 Raw to Ready offers a seamless data-cleaning experience through a secure and user-friendly interface. It includes **user registration and login** with SHA-256 password hashing for security. Once logged in, users can **upload and preview their CSV datasets** before cleaning. The application provides a variety of **automated cleaning tools**—such as filling or dropping missing values, removing duplicates, standardizing column names, normalizing text, fixing date formats, validating email addresses, and applying fuzzy standardization to handle similar text values. It also detects numeric anomalies to help identify outliers.
