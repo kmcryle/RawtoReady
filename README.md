@@ -25,6 +25,19 @@ User authentication is an **optional step**—guests can still use the app but w
 - Once the account is created, users can login page.
 - Each user’s cleaning history is saved and can be viewed, edited, or deleted anytime.
 
+## How to Access the Project Locally? 
+1. Clone the repository.
+   - git clone https://github.com/kmcryle/RawtoReady.git
+2. Navigate to the project folder
+   - cd RawtoReady
+3. Install the dependencies
+   - pip install -r requirements.txt
+4. Run the application (sprint 4 is the final .py file)
+   - streamlit run sprint4.py
+5. Open the local URL shown in your terminal to access the app.
+
+## Repository Structure
+
 ## Tech Stack
 - Frontend: Streamlit (Python framework for interactive web apps)
 - Backend: Python (Pandas, NumPy)
