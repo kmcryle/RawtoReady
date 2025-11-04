@@ -40,7 +40,7 @@ User authentication is an **optional step**—guests can still use the app but w
 Here’s how the repository layout should look like: <br>
 ├── .streamlit/ <br>
 │   └── config.toml           
-│
+│ <br>
 ├── README.md                
 ├── logo.png                  
 ├── logonobg.png              
