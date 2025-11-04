@@ -38,8 +38,19 @@ User authentication is an **optional step**—guests can still use the app but w
 
 ## Repository Structure
 Here’s how the repository layout should look like: 
-![Project Structure](Project%20Structure.png)
-
+📁 RawtoReady/
+│
+├── 📁 .streamlit/
+│   └── config.toml              
+│
+├── README.md                    
+├── logo.png                     
+├── logonobg.png                
+├── sprint1.py                   
+├── sprint2.py                   
+├── sprint3.py                   
+├── sprint4.py                   
+└── users.db                     
 
 ## Tech Stack
 - Frontend: Streamlit (Python framework for interactive web apps)
