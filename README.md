@@ -37,6 +37,9 @@ User authentication is an **optional step**—guests can still use the app but w
 5. Open the local URL shown in your terminal to access the app.
 
 ## Repository Structure
+Here’s how the repository layout should look like: 
+![Project Structure](Project%20Structure.png)
+
 
 ## Tech Stack
 - Frontend: Streamlit (Python framework for interactive web apps)
