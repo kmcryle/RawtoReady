@@ -1,3 +1,6 @@
+## Project Link 
+https://mainrawtoready4.streamlit.app/
+
 ## Project Background
 RawtoReady is an interactive web application designed to simplify data cleaning tasks for students, researchers, and analysts. The app allows users to upload CSV datasets, apply multiple cleaning operations such as missing value handling, text normalization, duplicate removal, and anomaly detection, and finally download a cleaned dataset ready for analysis.
 
@@ -28,11 +31,11 @@ User authentication is an **optional step**—guests can still use the app but w
 ## How to Access the Project Locally? 
 1. Clone the repository.
    - git clone https://github.com/kmcryle/RawtoReady.git
-2. Navigate to the project folder
+2. Navigate to the project folder.
    - cd RawtoReady
-3. Install the dependencies
+3. Install the dependencies.
    - pip install -r requirements.txt
-4. Run the application (sprint 4 is the final .py file)
+4. Run the application (sprint 4 is the final .py file).
    - streamlit run sprint4.py
 5. Open the local URL shown in your terminal to access the app.
 
