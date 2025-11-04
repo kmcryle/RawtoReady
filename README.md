@@ -37,7 +37,7 @@ User authentication is an **optional step**—guests can still use the app but w
 5. Open the local URL shown in your terminal to access the app.
 
 ## Repository Structure
-Here’s how the repository layout should look like: 
+Here’s how the repository layout should look like: <br>
 .
 ├── .streamlit/ <br>
 │   └── config.toml           
