@@ -47,10 +47,10 @@ Here’s how the repository layout should look like: <br>
 ├── README.md                
 ├── logo.png                  
 ├── logonobg.png              
-├── sprint1.py                
 ├── sprint2.py                
 ├── sprint3.py                
 ├── sprint4.py                
+├── sprint5.py                
 └── users.db                
 
 ## Tech Stack
